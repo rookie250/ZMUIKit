@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  UIKit相关扩展类
+  UIKit相关扩展类.
                        DESC
 
   s.homepage         = 'https://github.com/rookie250/ZMUIKit'
