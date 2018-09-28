@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZMUIKit_Tests' do
+  pod 'ZMUIKit', :path => '../'
+  
+  
+end
